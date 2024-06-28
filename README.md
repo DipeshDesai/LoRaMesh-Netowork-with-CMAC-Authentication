@@ -30,3 +30,9 @@ Fully functional LoRaMesh Network working in Arduino Uno Enabled with CMAC Authe
 
 - **Authentication Code Compatibility:**
   - The authentication code will only run on Arduino Mega devices.
+
+ ### Libraries
+ - RadioHead : https://github.com/sparkfun/SparkFun_RadioHead_Arduino_Library
+ - AES_CMAC : https://github.com/Industrial-Shields/arduino-AES_CMAC
+ - Crypto : https://github.com/OperatorFoundation/Crypto 
+ 
